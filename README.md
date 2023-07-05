@@ -1,5 +1,8 @@
 # Hotel Data Analysis
 
+![hotelier-2](https://github.com/shridharkamathe/Hotel-Data-Analysis/assets/124047047/19abbba0-9335-44c8-821a-0d564ec3e032)
+
+
 This repository contains an in-depth analysis of hotel bookings data, exploring various key performance indicators (KPIs) to provide insights into sales and bookings. The analysis also includes recommendations and strategies to improve sales and service within the hotel industry.
 
 ## Dataset
